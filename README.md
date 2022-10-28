@@ -10,7 +10,7 @@ Javascript, HTML, CSS
 
 ## Deplyement Link
 
-<a href="https://intern-theory-roan.vercel.app/">Netlify link</a>
+<a href="https://elegant-newton-1f5d84.netlify.app/">Netlify link</a>
 
 ## Screenshots
 
